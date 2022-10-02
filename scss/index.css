@@ -649,15 +649,15 @@ a {
 }
 
 .languages .container .language img {
-	height: 7rem;
-	-webkit-filter: brightness(0) invert(1);
-	filter: brightness(0) invert(1);
-	-webkit-transition: 0.5s ease-in-out;
-	transition: 0.5s ease-in-out;
+  height: 7rem;
+  -webkit-filter: brightness(0) invert(1);
+  filter: brightness(0) invert(1);
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 .languages .container .language img:hover {
-	-webkit-filter: none;
+  -webkit-filter: none;
 	filter: none;
 }
 
